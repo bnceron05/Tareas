@@ -1,0 +1,2 @@
+Solución de la tarea de la unidad 2
+En mi caso para poder resolver la tarea de la Unidad numero 2 me fue bastante dificil ya que tuve que llegar a la comprensión de como utilizar los comandos correctos, llegue a la siguente compresensión VAR sirve para grabar la información PROMPT para que nos despliegue el cuadro de dialogo donde colocamos la respuesta IF para asignar la condición y ELSE IF lo utilizamos cuando la condición IF no se cumple nos arroja otro resultado
